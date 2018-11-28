@@ -1,6 +1,7 @@
-# Bill of materials - custom parts
+# Bill of materials
 
-## Aluminium:
+## Custom parts:
+### Aluminium
  - NH-T-01 | table
  - NH-T-02	| linear base plate - inner
  - NH-T-03	| linear base plate
@@ -12,7 +13,7 @@
  - NH-T-09	| tube holder front - cap
  - NH-T-10	| threaded rod
  
-## Plastic:
+### Plastic
  - NH-T-11 | cover bottom
  - NH-T-12	| Cover -side
  - NH-T-13	| Piston
@@ -25,29 +26,37 @@
  - NH-T-20	| debubler lid - v2 - closed
  - NH-T-21	| debubler lid - v2
  - NH-T-22	| debubler bottom - v2
-
-## Mechanics:
+ 
+## Standard parts:
+### Mechanics
  - NH-T-23 | linear rail
  - NH-T-24	| linear rail carriage
  - NH-T-25	| Coupler 5-6mm
  - NH-T-26	| threaded rod bearing
- - NH-T-27	| tepper motor "Nema 11 planetary"
+ - NH-T-27	| Stepper motor "Nema 11 planetary"
  - NH-T-28	| fan_40x40x10
  
-## PCBs:
+### PCBs
  - NH-T-29	| Motor_driver
  - NH-T-30	| Front_PCB
  - NH-T-31	| feather_model
 
-## Screws:
+### Screws
  - NH-T-32	| screw TORX ISO7380 BN6404 M3x6
  - NH-T-33	| screw TORX ISO7380 BN6404 M3x8
  - NH-T-34	| screw_iso14581-m3x8-4_8
  - NH-T-35	| screw TORX ISO7380 BN6404 M3x16
  - NH-T-36	| Fan screw
 
-## Other:
+### Other
  - NH-T-37	| Glass lid
  - NH-T-38	| Stainless steel lid
  - NH-T-39	| Septum
  - NH-T-40	| Braun_Omnifix_20ml
+ - NH-T-41 | Tubing
+ - NH-T-42	| 
+ - NH-T-43 | 
+ - NH-T-44	| 
+ - NH-T-45 | 
+ - NH-T-46	| 
+ - NH-T-47 | 
