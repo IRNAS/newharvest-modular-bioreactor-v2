@@ -1,6 +1,7 @@
 # Bill of materials
 
-## Custom parts:
+# Tray and culture dish
+## Custom parts
 ### Aluminium
  - NH-T-01 | table
  - NH-T-02	| linear base plate - inner
@@ -27,7 +28,7 @@
  - NH-T-21	| debubler lid - v2
  - NH-T-22	| debubler bottom - v2
  
-## Standard parts:
+## Standard parts
 ### Mechanics
  - NH-T-23 | linear rail
  - NH-T-24	| linear rail carriage
@@ -52,11 +53,15 @@
  - NH-T-37	| Glass lid
  - NH-T-38	| Stainless steel lid
  - NH-T-39	| Septum
- - NH-T-40	| Braun_Omnifix_20ml
- - NH-T-41 | Tubing
- - NH-T-42	| 
- - NH-T-43 | 
- - NH-T-44	| 
- - NH-T-45 | 
- - NH-T-46	| 
- - NH-T-47 | 
+
+### Perfusion components
+ - NH-T-40	| Braun Omnifix 20ml syringes
+ - NH-T-41 | luer-tubing connectors M
+ - NH-T-42	| luer-tubing connectors F
+ - NH-T-43 | stainless steel luer-M5-connectors
+ - NH-T-44	| Silicone tubing 2mm
+ - NH-T-45 | PTFE membrane (0.2μm pore size)
+ - NH-T-46	| PES syringe filters (0.2μm pore size)
+ - NH-T-47 | check-valves
+
+# Incubator
