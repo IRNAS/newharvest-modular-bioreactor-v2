@@ -16,6 +16,9 @@ The aim of this project was to develop and build a ‘modular bioreactor for mus
 - [Licence](#license)
 	
 ## System functionality <a id="sys-fun"></a>
+The bioreactor operates on two levels. The incubator is an enclosed unit which allows regulation of internal environmental conditions, currently temperature and CO<sub>2</sub>. The regulatory circuit runs on an ESP32 microcontroller, which allows operation via display and buttons, as well as a web interface and android/iphone app. Parameters can be changed, monitored and logged. Each tray has an additional microcontroller, for regulation of flow rate and open ports for additional sensorics and regulation.
+
+
 ![block-diagram](https://github.com/symbiolab/NewHarvest-modular-bioreactor/blob/master/figures/01_system-block-diagram.png)
 
 
