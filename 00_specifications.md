@@ -3,20 +3,24 @@ The incubator is a housing for cell and tissue culture, which requires manual ad
 
 | Parameter				| Value									|
 | --- | --- |
-| Build:				| Thermoelectric wine cooler (modified) |
+| Build:				| Thermoelectric wine cooler (modified) - Klarstein 
+10029816 (Chal-Tec GmbH) |
 | Physical dimensions:	| Inner: 17 x 31 x 52cm (35l)			|
 | 						| Outer: 26 x 50 x 55cm					|
 | Weight: 				| Approx. 15kg							|
 | Power: 				| 70W									|
 | Number of trays:		| 4										|
 | T regulation range: 	| Room temperature - 40°C ± 0.5°C		|
+| T sensor:			 	| SHT31(Sensirion AG)					|
 | Heat source: 			| Built in peltier element				|
 | Heat distribution: 	| Built in fan + tray fans				|
-| CO2 regulation range:	| 0 - 10% (100,000ppm) ± 0.1%			|
-| CO2 source: 			| external								|
-| CO2 distribution: 	| Built in fan + tray fans				|
+| CO<sub>2</sub> regulation range:	| 0 - 10% (100,000ppm) ± 0.1%		|
+| CO<sub>2</sub> sensor:	| ExplorIR-M-20	(CO2meter)		|
+| CO<sub>2</sub> source: 			| external							|
+| CO<sub>2</sub> distribution: 	| Built in fan + tray fans				|
 | Regulation: 			| Automatic adjustment to set values	|
-| Monitoring/control:	| Digital display + control buttons		|
+| Monitoring/control:	| ESP32 microcontroller					|
+| 						| Digital display + control buttons		|
 |						| Wi-fi + web interface 				|
 | Tray size:			| 18x29cm								|
 
