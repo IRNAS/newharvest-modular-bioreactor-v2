@@ -10,7 +10,10 @@ The aim of this project was to develop and build a ‘modular bioreactor for mus
  -	tray modules holding:
 	* a controllable perfusion system, 
 	* gas exchange and air bubble removal, as well as 
-	* tissue platforms for biological samples 
+	* customizable tissue platforms for biological samples 
+
+### System block-diagram
+[!block-diagram](https://github.com/symbiolab/NewHarvest-modular-bioreactor/blob/master/figures/01_system-block-diagram.png)
 
 
 ## License <a id="license"></a>
