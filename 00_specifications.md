@@ -1,6 +1,8 @@
 ## Incubator
 The incubator is a housing for cell and tissue culture, which requires manual adjustment and automatic regulation of atmospheric conditions (temperature, CO2) without overshoot, ease of disinfection, aseptic use and alarm notifications. In addition, this prototype will provide wireless connectivity and control and have a transparent door for sample observation without opening. The prototype will be built from a modified thermoelectric wine-cooler.
 
+| Parameter				| Value									|
+| --- | --- |
 | Build:				| Thermoelectric wine cooler (modified) |
 | Physical dimensions:	| Inner: 17 x 31 x 52cm (35l)			|
 | 						| Outer: 26 x 50 x 55cm					|
