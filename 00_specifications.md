@@ -3,8 +3,7 @@ The incubator is a housing for cell and tissue culture, which requires manual ad
 
 | Parameter				| Value									|
 | --- | --- |
-| Build:				| Thermoelectric wine cooler (modified) - Klarstein 
-10029816 (Chal-Tec GmbH) |
+| Build:				| Thermoelectric wine cooler (modified) - Klarstein 10029816 (Chal-Tec GmbH) |
 | Physical dimensions:	| Inner: 17 x 31 x 52cm (35l)			|
 | 						| Outer: 26 x 50 x 55cm					|
 | Weight: 				| Approx. 15kg							|
