@@ -13,7 +13,7 @@ The aim of this project was to develop and build a ‘modular bioreactor for mus
 	* customizable tissue platforms for biological samples 
 
 ### System block-diagram
-[!block-diagram](https://github.com/symbiolab/NewHarvest-modular-bioreactor/blob/master/figures/01_system-block-diagram.png)
+![block-diagram](https://github.com/symbiolab/NewHarvest-modular-bioreactor/blob/master/figures/01_system-block-diagram.png)
 
 
 ## License <a id="license"></a>
