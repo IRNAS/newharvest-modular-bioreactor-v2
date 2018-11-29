@@ -1,7 +1,4 @@
 # NewHarvest-modular-bioreactor
-A modular and scalable bioreactor system for muscle tissue engineering
-
-## Project goals
 The aim of this project was to develop and build a ‘modular bioreactor for muscle tissue engineering’ prototype in collaboration with New Harvest and research fellow Jess Krieger. The provided solution should be well documented open-source, easy and low-cost to rebuild, without compromising on functionality. The finished prototype should contain:
  - a stand-alone incubation system with: 
 	* temperature and CO2 concentration control, 
