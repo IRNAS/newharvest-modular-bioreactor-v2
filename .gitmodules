@@ -1,0 +1,12 @@
+[submodule "electronics/new-harvest-incubator-front-touch-hardware"]
+	path = electronics/new-harvest-incubator-front-touch-hardware
+	url = https://github.com/IRNAS/new-harvest-incubator-front-touch-hardware.git
+[submodule "electronics/new-harvest-incubator-front-shelf-hardware"]
+	path = electronics/new-harvest-incubator-front-shelf-hardware
+	url = https://github.com/IRNAS/new-harvest-incubator-front-shelf-hardware.git
+[submodule "electronics/new-harvest-incubator-motor-driver-hardware"]
+	path = electronics/new-harvest-incubator-motor-driver-hardware
+	url = https://github.com/IRNAS/new-harvest-incubator-motor-driver-hardware.git
+[submodule "electronics/new-harvest-incubator-sensor-hardware"]
+	path = electronics/new-harvest-incubator-sensor-hardware
+	url = https://github.com/IRNAS/new-harvest-incubator-sensor-hardware.git
