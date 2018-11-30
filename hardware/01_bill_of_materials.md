@@ -30,7 +30,7 @@
  
 ## Standard parts
 ### Mechanics
- - NH-T-23 | linear rail
+ - NH-T-23	| linear rail
  - NH-T-24	| linear rail carriage
  - NH-T-25	| Coupler 5-6mm
  - NH-T-26	| threaded rod bearing
@@ -56,12 +56,36 @@
 
 ### Perfusion components
  - NH-T-40	| Braun Omnifix 20ml syringes
- - NH-T-41 | luer-tubing connectors M
+ - NH-T-41	| luer-tubing connectors M
  - NH-T-42	| luer-tubing connectors F
- - NH-T-43 | stainless steel luer-M5-connectors
+ - NH-T-43	| stainless steel luer-M5-connectors
  - NH-T-44	| Silicone tubing 2mm
- - NH-T-45 | PTFE membrane (0.2μm pore size)
+ - NH-T-45	| PTFE membrane (0.2μm pore size)
  - NH-T-46	| PES syringe filters (0.2μm pore size)
- - NH-T-47 | check-valves
+ - NH-T-47	| check-valves
 
 # Incubator
+## Standard parts
+### Housing and heating
+ - NH-T-48	| Thermoelectric wine cooler (Klarstein 10029816)
+ 
+### Power suppy
+ - NH-T
+ - NH-T
+ 
+### Regulation
+ - NH-T-49	| Temperature sensor SHT31(Sensirion AG)
+ - NH-T-50	| CO<sub>2</sub> sensor ExplorIR-M-20 (CO2meter)
+ - NH-T-51	| ESP32 microcontroller
+
+ - NH-T-29	| Motor_driver
+ - NH-T-30	| Front_PCB
+ - NH-T-31	| feather_model
+
+### Gas supply
+ - NH-T-52	| Soda stream cylinder
+ - NH-T-53	| valve
+ - NH-T-54	| tubing
+ - NH-T-55	| 
+ 
+ 
