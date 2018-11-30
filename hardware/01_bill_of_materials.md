@@ -84,8 +84,8 @@
 
 ### Gas supply
  - NH-T-52	| Soda stream cylinder
- - NH-T-53	| valve
- - NH-T-54	| tubing
+ - NH-T-53	| E.MC SLP 12 12V solenoid valve
+ - NH-T-54	| gas tubing
  - NH-T-55	| 
  
  
