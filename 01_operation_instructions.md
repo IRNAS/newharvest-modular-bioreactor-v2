@@ -13,6 +13,11 @@
  
 ## Perfusion system assembly <a id="perfusion"></a>
 
+
+[![IMAGE ALT TEXT](http://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](https://www.youtube.com/watch?v=RdUgvsOvLyQ "New Harvest Modular Bioreactor - Tissue Platform Assembly")
+
+[![IMAGE ALT TEXT](http://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](https://www.youtube.com/watch?v=RASLVN8P1gc "New Harvest Modular Bioreactor - Tissue Platform Flushing")
+
  <img src="https://cloud.githubusercontent.com/assets/14543226/24997531/3aaafcba-2037-11e7-8800-1aba4ec7eacb.png" alt="bubble" width="450" height="400">
 
 ## Starting first cycle <a id="ASSEMBLY"></a>
