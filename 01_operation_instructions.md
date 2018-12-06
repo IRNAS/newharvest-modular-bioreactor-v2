@@ -8,8 +8,6 @@
 ## Initial set-up <a id="set-up"></a>
 
 
-### 1.1 General
-
 
 
  
@@ -19,7 +17,6 @@
 
 ## Starting first cycle <a id="ASSEMBLY"></a>
 
-### ...
 
 
 ### ...
