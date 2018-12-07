@@ -32,6 +32,10 @@ Tissue platform assemby is performed as shown in the video.
  - Sterilize tray by spraying with 70% Ethanol and wiping with lint-free wipes. Alternatively, place under UV sterilization for 1 hour.
  
 ### Install components on specified locations <sup>[1](#myfootnote1)</sup>
+A schematic of an assembled tray is shown in the figure below:
+<img src="https://github.com/symbiolab/NewHarvest-modular-bioreactor/blob/master/figures/tray-design/render-NewHarvest-tray-iteration1-topview.png" alt="bubble" width="450" height="400">
+
+
  - Move syringe piston holders to the 20ml and 5ml positions respectively.
  - Place Braun Omnifix 20ml syringes into the specified holders.
  - Place bubble traps and tissue platform into the specified positions to automatically attach using permanent magnets.
