@@ -1,1 +1,1 @@
-# Electronics files are linked from the IRNAS repository
+Electronics files are linked from the IRNAS repository
