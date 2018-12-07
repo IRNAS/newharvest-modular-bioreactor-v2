@@ -33,7 +33,7 @@ Tissue platform assemby is performed as shown in the video.
  
 ### Install components on specified locations <sup>[1](#myfootnote1)</sup>
 A schematic of an assembled tray is shown in the figure below:
-<img src="https://github.com/symbiolab/NewHarvest-modular-bioreactor/blob/master/figures/tray-design/render-NewHarvest-tray-iteration1-topview.png" alt="bubble" width="450" height="400">
+<img src="https://github.com/symbiolab/NewHarvest-modular-bioreactor/blob/master/figures/tray-design/render-NewHarvest-tray-iteration1-topview.png" alt="bubble" width="450" height="260">
 
 
  - Move syringe piston holders to the 20ml and 5ml positions respectively.
