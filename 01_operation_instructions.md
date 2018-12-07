@@ -49,7 +49,9 @@ A schematic of an assembled tray is shown in the figure below:
 
 
 ## Starting first cycle <a id="ASSEMBLY"></a>
-
+ - Install tray into the incubator
+ - Set perfusion speed
+ - Start cycle
 
 
 #### Notes:
