@@ -60,5 +60,5 @@ Tissue platform assemby is performed as shown in the video.
 
 
 
-
+#### Notes:
 <a name="myfootnote1">1</a>: This version of the perfusion system exhibits strong level changes in the bubble traps, which will be corrected in the next version of the circulation system (based on unidirectional perfusion).
