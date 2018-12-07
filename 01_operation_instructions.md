@@ -20,7 +20,8 @@
 	* place lid on top and screw both plastic parts together using M3 screws
 	
  2. Tissue platform
-  [![IMAGE ALT TEXT](http://img.youtube.com/vi/RdUgvsOvLyQ/0.jpg)](https://www.youtube.com/watch?v=RdUgvsOvLyQ "New Harvest Modular Bioreactor - Tissue Platform Assembly")
+Tissue platform assemby is performed as shown in the video.
+ [![IMAGE ALT TEXT](http://img.youtube.com/vi/RdUgvsOvLyQ/0.jpg)](https://www.youtube.com/watch?v=RdUgvsOvLyQ "New Harvest Modular Bioreactor - Tissue Platform Assembly")
 
  3. Fill syringes with culture medium
     * Carefully fill syringe A to the 20ml mark with medium through a PES syringe filter (0.2μm pore-size).
@@ -30,7 +31,7 @@
  - Place Bubble trap, tissue platform, tubing and connectors into a covered container and autoclave at 121°C for 20min.
  - Sterilize tray by spraying with 70% Ethanol and wiping with lint-free wipes. Alternatively, place under UV sterilization for 1 hour.
  
-### Install components on specified locations
+### Install components on specified locations <sup>[1](#myfootnote1)</sup>
  - Move syringe piston holders to the 20ml and 5ml positions respectively.
  - Place Braun Omnifix 20ml syringes into the specified holders.
  - Place bubble traps and tissue platform into the specified positions to automatically attach using permanent magnets.
@@ -60,3 +61,4 @@
 
 
 
+<a name="myfootnote1">1</a>: This version of the perfusion system exhibits strong level changes in the bubble traps, which will be corrected in the next version of the circulation system (based on unidirectional perfusion).
