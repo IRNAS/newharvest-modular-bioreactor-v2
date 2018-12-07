@@ -44,6 +44,7 @@
 
 
  <!--- <img src="https://cloud.githubusercontent.com/assets/14543226/24997531/3aaafcba-2037-11e7-8800-1aba4ec7eacb.png" alt="bubble" width="450" height="400">
+-->
 
 ## Starting first cycle <a id="ASSEMBLY"></a>
 
