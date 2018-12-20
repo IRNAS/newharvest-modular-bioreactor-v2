@@ -2,16 +2,20 @@
 
 ## Table of contents
  - [General operation](#set-up)
+   * [Incubator manual](02_incubator-operation-instructions.pdf)
+   * [Tray manual](03_tray-operation-instructions.pdf)
  - [Perfusion system assembly](#perfusion)
  - [Starting first cycle](#cycle)
 
 ## General operation <a id="set-up"></a>
 
-### Tray
-Initial set-up and general operation of the tray are documented [HERE](https://github.com/symbiolab/NewHarvest-modular-bioreactor/blob/master/hardware/03_tray-operation-instructions.pdf)
-
 ### Incubator
-The incubator and trays are controlled by ESP32 microcontrollers and the same firmware-structure. Thus, the set-up and operation of the incubator follows the same work-flow as it does for the individual trays, see above.
+Initial set-up and general operation of the incubator are documented [HERE](https://github.com/symbiolab/NewHarvest-modular-bioreactor/blob/master/02_incubator-operation-instructions.pdf)
+
+### Tray
+Initial set-up and general operation of the tray are documented [HERE](https://github.com/symbiolab/NewHarvest-modular-bioreactor/blob/master/03_tray-operation-instructions.pdf)
+
+
  
 ## Perfusion system assembly <a id="perfusion"></a>
 
