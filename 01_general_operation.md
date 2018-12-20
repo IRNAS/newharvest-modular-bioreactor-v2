@@ -5,7 +5,6 @@
    * [Incubator manual](02_incubator-operation-instructions.pdf)
    * [Tray manual](03_tray-operation-instructions.pdf)
  - [Perfusion system assembly](#perfusion)
- - [Starting first cycle](#cycle)
 
 ## General operation <a id="set-up"></a>
 
@@ -54,11 +53,6 @@ A schematic of an assembled tray is shown in the figure below:
  - Disconnect syringe A from the tubing and empty syringe B completely to flush the rest of the tubing.
  - Reconnect syringe A.
 
-
-## Starting first cycle <a id="cycle"></a>
- - Install tray into the incubator
- - Set perfusion speed as described in the [tray operation instructions](https://github.com/symbiolab/NewHarvest-modular-bioreactor/blob/master/hardware/03_tray-operation-instructions.pdf)
- - Start cycle
 
 
 #### Notes:
