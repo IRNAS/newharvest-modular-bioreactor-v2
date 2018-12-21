@@ -10,3 +10,9 @@
 [submodule "electronics/new-harvest-incubator-sensor-hardware"]
 	path = electronics/new-harvest-incubator-sensor-hardware
 	url = https://github.com/IRNAS/new-harvest-incubator-sensor-hardware.git
+[submodule "software/new-harvest-incubator-front-firmware"]
+	path = software/new-harvest-incubator-front-firmware
+	url = https://github.com/IRNAS/new-harvest-incubator-front-firmware.git
+[submodule "software/new-harvest-incubator-tray-firmware"]
+	path = software/new-harvest-incubator-tray-firmware
+	url = https://github.com/IRNAS/new-harvest-incubator-tray-firmware.git
