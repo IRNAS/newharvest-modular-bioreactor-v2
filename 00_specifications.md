@@ -53,7 +53,21 @@ Two bubble traps/debubblers will be installed per tray in between the culture di
 | Tubing connection:	| Luer-lock								|
 | Other features:		| Autoclavable, leak-proof				|
 
-### Tissue platform
+
+### Perfusion unit for 6-well plates
+This module allows connecting circulation to a standard 6-well plate, that can be used for standard cell biology experiments. Individual wells are coupled into a perfusion stream, which is controlled externally. The perfusion unit, built as the well plate cover has an oppening above every well, allowing visual sample evaluation during the experiments. To sustain aseptic work an additional cover is recommended, such as gas permeable cover membranes.
+
+| Parameter				| Value									|
+| --- | --- |
+| Build:				| Custom construction (PEEK) |
+| Sample container:		|6-well plate. |
+| 						| Sample insert/exchange in 1 step without additional tools. |
+|Perfusion:				| Silicone tubing connected via luer-lock. |
+| Other features:		| Autoclavable.|
+| Requirements:			| Gas permeable well-plate cover membrane. |
+
+
+### Custom 3D muscle tissue platform
 The custom-made culture dish will be adapted for the perfusable New Harvest tissue samples and will fulfill the following functions: Allow simple inserting and exchange of samples, as well as attaching them to the perfusion system via catheter, while being leak-proof. The samples will be kept in place, however, the container will allow contractions of the sample. The housing will be autoclavable, suitable for reuse and allow assembly without additional tools. In addition, the cover will contain a glass window made from standard microscope slides to allow observation without disturbing the samples.
 
 | Parameter				| Value									|
@@ -62,6 +76,6 @@ The custom-made culture dish will be adapted for the perfusable New Harvest tiss
 | Sample container:		|Holding sample in place while allowing contraction and extension in Y and Z directions. |
 | 						| Sample insert/exchange in 2 steps without additional tools. |
 |Perfusion:				| Leak-proof catheter (peripheral venous type) insert/fastening in 2 steps without additional tools, luer-lock connectivity. |
-| Other features:		| Autoclavable, transparent glass window (microscope slide)
+| Other features:		| Autoclavable, transparent glass window (microscope slide) |
 | Requirements:			| Precise, repeatable sample size |
 
